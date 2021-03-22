@@ -5,11 +5,6 @@
 
 {
     const body = document.querySelector('body');
-    body.innerHTML = ('<p>');
-}
-
-{
-    const body = document.querySelector('body');
     body.innerHTML = ('</p>');
 }
 
