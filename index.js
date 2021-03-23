@@ -1,34 +1,34 @@
+document.querySelector('body')
 {
-    const body = document.querySelector('body');
-    body.innerHTML = ('<p>');
+    document.body.innerHTML = ('<p></p>');
 }
 
+document.querySelector('body')
 {
-    const body = document.querySelector('body');
-    body.innerHTML = ('</p>');
+    document.body.innerHTML = ('<h1>My HTML adventure</h1>');
 }
 
+document.querySelector('h1')
 {
-    const p = document.querySelector('p');
-    p.innerHTML = ('<h1>My HTML adventure</h1>');
+    document.body.h1.innerHTML = ('<p></p>');
 }
 
+document.querySelector('p')
 {
-    const p = document.querySelector('p');
-    p.innerHTML = ('<strong>');
+    document.body.p.innerHTML = ('<strong></strong>');
 }
 
+document.querySelector('p')
 {
-    const p = document.querySelector('p');
-    p.innerHTML = ('<em>');
+    document.body.p.innerHTML = ('<em></em>');
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+
+document.querySelector('p')
+{
+    document.body.h1.p.innerHTML = ('<strong><em><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"></a></em></strong>');
 }
 
+document.querySelector('body')
 {
-    const p = document.querySelector('p');
-    p.innerHTML = ('<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">');
-}
-
-{
-    const body = document.querySelector('body');
-    body.innerHTML = ('<table>');
+    document.body.h1.p.innerHTML = ('<table></table>');
 }
